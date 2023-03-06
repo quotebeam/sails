@@ -1,6 +1,6 @@
 {
   "name": "sails",
-  "author": "Mike McNeil <@mikermcneil>",
+  "author": "Quotebeam",
   "version": "1.5.4",
   "description": "API-driven framework for building realtime apps, using MVC conventions (based on Express and Socket.io)",
   "license": "MIT",
